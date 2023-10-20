@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the ICP Blockchain Compound Interest Toy Project! This project is a simple educational demonstration of compound interest using the Internet Computer Protocol (ICP) blockchain.
+Welcome to the ICP Blockchain Compound Interest Project! This project is a simple educational demonstration of compound interest using the Internet Computer Protocol (ICP) blockchain.
 
 ### Features
 
