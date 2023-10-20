@@ -1,4 +1,4 @@
-# ICP Blockchain Compound Interest Toy Project
+# ICP Blockchain Compound Interest Project
 
 ## Introduction
 
@@ -36,4 +36,4 @@ Welcome to the ICP Blockchain Compound Interest Toy Project! This project is a s
 
 ## Disclaimer
 
-This is a toy project created for educational purposes only. It does not involve real funds, ICP tokens, or financial transactions. Any calculations are for demonstration purposes and should not be considered financial advice.
+This is a project created for educational purposes only. It does not involve real funds, ICP tokens, or financial transactions. Any calculations are for demonstration purposes and should not be considered financial advice.
